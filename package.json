@@ -1,0 +1,13 @@
+{
+  "name": "mailchimp-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Afonso Reis",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mailchimp-api-v3": "^1.13.0",
+    "micro": "^9.3.4",
+    "micro-cors": "^0.1.1"
+  }
+}
