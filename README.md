@@ -26,7 +26,7 @@ After configuring your audience in Mailchimp you should set up the following key
 API_KEY
 LIST_ID
 ```
-You can also define your env variables in `now.jason` as such:
+You can also define your env variables in `now.json` as such:
 
 ```javascript
 {
