@@ -1,6 +1,6 @@
 {
   "name": "vercel-mailchimp-lambda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Afonso Reis",
   "license": "MIT",
@@ -14,6 +14,7 @@
     "standard-version": "^9.0.0"
   },
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "postrelease": "git push --follow-tags origin HEAD"
   }
 }
