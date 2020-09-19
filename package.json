@@ -1,5 +1,5 @@
 {
-  "name": "mailchimp-lambda",
+  "name": "vercel-mailchimp-lambda",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Afonso Reis",
